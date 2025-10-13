@@ -32,18 +32,18 @@ const Footer = () => {
         {
             title: "CONTACT",
             links: [
-                { text: "+1-212-456-7890", path: '/', icon: MailIcon },
-                { text: "contact@example.com", path: '/', icon: PhoneIcon },
-                { text: "794 Francisco, 94102", path: '/', icon: MapPinIcon }
+                { text: "+91 8081681137", path: '/', icon: MailIcon },
+                { text: "hellojarp@gmail.com", path: '/', icon: PhoneIcon },
+                { text: "11 Naini Industrial Area, 211010", path: '/', icon: MapPinIcon }
             ]
         }
     ];
 
     const socialIcons = [
-        { icon: FacebookIcon, link: "https://www.facebook.com" },
-        { icon: InstagramIcon, link: "https://www.instagram.com" },
-        { icon: TwitterIcon, link: "https://twitter.com" },
-        { icon: LinkedinIcon, link: "https://www.linkedin.com" },
+        { icon: FacebookIcon, link: "https://www.facebook.com/people/Anshu-Tiwari/pfbid0zarbp6pBdL7qRHvNh9CFf6Wq8mi5zT8nVhssfw263cBNkRi4We4SeVR67HBjU5ZPl/?mibextid=ZbWKwL" },
+        { icon: InstagramIcon, link: "https://www.instagram.com/anshut0208/?s=09" },
+        { icon: TwitterIcon, link: "https://x.com/anshut0208?t=o166Bdllq5uSO-ubYNW47w&s=09" },
+        { icon: LinkedinIcon, link: "https://www.linkedin.com/in/anshut0208" },
     ]
 
     return (
@@ -52,7 +52,7 @@ const Footer = () => {
                 <div className="flex flex-col md:flex-row items-start justify-between gap-10 py-10 border-b border-slate-500/30 text-slate-500">
                     <div>
                         <Link href="/" className="text-4xl font-semibold text-slate-700">
-                            <span className="text-green-600">go</span>cart<span className="text-green-600 text-5xl leading-0">.</span>
+                            <span className="text-green-600">J</span>kart<span className="text-green-600 text-5xl leading-0">.</span>
                         </Link>
                         <p className="max-w-[410px] mt-6 text-sm">Welcome to gocart, your ultimate destination for the latest and smartest gadgets. From smartphones and smartwatches to essential accessories, we bring you the best in innovation — all in one place.</p>
                         <div className="flex items-center gap-3 mt-5">
